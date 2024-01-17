@@ -1,0 +1,10 @@
+{
+    "name": "Tex Environment",
+    "image": "dcosta99/tex:latest",
+
+    "customizations": {
+        "vscode": {
+          "extensions": ["analytic-signal.preview-pdf"]
+        }
+      }
+}
